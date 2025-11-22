@@ -1,0 +1,11 @@
+[33m0c679cf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Arreglos
+[33m8ff17aa[m[33m ([m[1;31mprincipal/master[m[33m, [m[1;31mnuevo-origen/master[m[33m)[m Cambios
+[33mc98dd98[m Primer commit
+[33mdeb3998[m cambio del diseño
+[33m025581c[m Agregamos más elementos al JSON
+[33m104b91e[m se integró el primer modelo 3D con Three.js, se ajustó el catálogo con un grid funcional y estilos refinados, y se añadió soporte en el JSON para cargar modelos GLB. Aún falta agregar más modelos 3D, optimizar visuales y completar las vistas detalladas de cada marca.
+[33m3f562d4[m Regristro agregado y espacio para Modelo 3D
+[33md8dc63a[m Modelos de los autos aparte ahora si vamos a la animacion 3D
+[33m1dc46f8[m Catalogo de Marcas de Autos completado , Falta agregar los modelos 3D de cada auto y colocar informacion en Redes,Noticias,Diseñadores.
+[33m2bae9d5[m Headder completado siguiente paso catalogo de marcas de autos
+[33m9ae0f10[m Subiendo proyecto React con archivos iniciales
